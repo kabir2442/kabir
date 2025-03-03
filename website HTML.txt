@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shahriar Kabir - Personal Website</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #fff;
+        }
+        header {
+            background-color: #0a0a23;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: #4fa3d1;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #111;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #0a0a23;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shahriar Kabir</h1>
+        <p>Video Editor | Social Media Manager | Email Marketer | Content Creator</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome! I am Shahriar Kabir, an expert in video editing, social media management, and CPA marketing. I help brands and individuals boost their online presence through engaging content.</p>
+    </section>
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Check out some of my latest works and projects.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: shahriarkabir@example.com</p>
+        <p>Phone: +1234567890</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Shahriar Kabir. All rights reserved.</p>
+    </footer>
+</body>
+</html>
